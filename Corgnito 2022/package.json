@@ -11,6 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "corgnito-2022": "file:",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
