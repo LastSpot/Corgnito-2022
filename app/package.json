@@ -1,9 +1,9 @@
 {
-  "name": "corgnito-2022",
+  "name": "corgnito",
   "version": "1.0.0",
   "main": "GenerateCorgi.js",
   "scripts": {
-    "start": "nodemon Main_JS.js",
+    "start": "nodemon main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -11,6 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "corgnito": "file:",
+    "Corgnito": "file:",
     "corgnito-2022": "file:",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
